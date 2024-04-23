@@ -1,0 +1,10 @@
+{
+  "Visibility": "VISIBLE",
+  "Title": "New Skin Available",
+  "Description": "Skinner Pro recommends to update added new skin and fixed some skins.",
+  "MainTextButton": "Update",
+  "Cancelable": "true",
+  "CancelButtonText": "Later",
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.skinnerpro.app",
+  "Version": "1"
+}
