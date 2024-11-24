@@ -3,7 +3,7 @@
   "Title": "New Skin Available",
   "Description": "W Tools V2 FIXED download now!.",
   "MainTextButton": "Update",
-  "Cancelable": "false",
+  "Cancelable": "true",
   "CancelButtonText": "Later",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.wtoolsv2.com",
   "Version": "1.7"
